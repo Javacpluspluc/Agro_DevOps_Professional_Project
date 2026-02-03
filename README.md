@@ -125,7 +125,7 @@ dotnet run --project ApiGateway
 
 ### Grafana Dashboard
 
-<img width="1280" height="586" alt="image" src="https://github.com/user-attachments/assets/2c4d1d39-a199-442a-917d-c9236514ec54" />
+<img width="893" height="399" alt="image" src="https://github.com/user-attachments/assets/6e282be6-97be-4d8e-8ce8-ded9f82cd10c" />
 
 
 **Available Dashboards:**
@@ -135,7 +135,7 @@ dotnet run --project ApiGateway
 
 ### Loki Logging
 
-<img width="1634" height="627" alt="изображение" src="https://github.com/user-attachments/assets/22ccf202-6221-430b-bb19-41376a85cd79" />
+<img width="1001" height="655" alt="image" src="https://github.com/user-attachments/assets/cf3f28d3-ede6-470d-83fe-519bab734e0e" />
 
 **Logging Features:**
 - Logs collected from all application pods
@@ -149,7 +149,7 @@ dotnet run --project ApiGateway
 
 ### ArgoCD
 
-<img width="1280" height="591" alt="image" src="https://github.com/user-attachments/assets/d1dcdd22-0163-4e64-982d-e3c98323ab8f" />
+<img width="971" height="524" alt="image" src="https://github.com/user-attachments/assets/2b8e789e-3390-4486-a340-3c759256a8e1" />
 
 **ArgoCD Responsibilities:**
 - Continuous synchronization between Git and cluster
